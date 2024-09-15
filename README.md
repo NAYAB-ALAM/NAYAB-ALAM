@@ -3,7 +3,12 @@
 <h1 align="center">Hi 👋, I'm Nayab Alam</h1>
 <h3 align="center">A passionate full-stack MERN developer from India</h3>
 
-<img src="https://github.com/user-attachments/assets/7cb79c8d-293c-4cd8-9d43-38e1bff751d9" style="width:400; float:right;">
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/7cb79c8d-293c-4cd8-9d43-38e1bff751d9" style="width:400; float:right;" width="500">
+</p>
+
+
+
 
 
 
