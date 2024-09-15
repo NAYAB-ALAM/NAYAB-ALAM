@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Nayab Alam</h1>
 <h3 align="center">A passionate full-stack MERN developer from India</h3>
 
-<img align="right" alt="animated-coder" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"
+<img align="right" alt="animated-coder" width="400" src="![image](https://github.com/user-attachments/assets/f58b2d30-dcd3-4edf-9964-31bd43550e30)
+"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayab-alam&label=Profile%20views&color=0e75b6&style=flat" alt="nayab-alam" /> </p>
 
