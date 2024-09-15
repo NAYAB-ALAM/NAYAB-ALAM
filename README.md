@@ -5,7 +5,7 @@
 
 
 <p align="right">
-  <img src="https://github.com/user-attachments/assets/7cb79c8d-293c-4cd8-9d43-38e1bff751d9" style="width:400; float:right;" width="400">
+  <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" style="width:400; float:right;" width="400">
 </p>
 
 
